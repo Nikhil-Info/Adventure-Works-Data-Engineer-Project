@@ -1,0 +1,60 @@
+[
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Calendar.csv",
+        "p_sink_folder" : "Calender",
+        "p_sink_file_name" : "Calendar.csv"
+    },
+
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder" : "Product Category",
+        "p_sink_file_name" : "Product_Categories.csv"
+    },
+
+
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder" : "Product Subcategories",
+        "p_sink_file_name" : "Product_Subcategories.csv"
+    },
+
+
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Products.csv",
+        "p_sink_folder" : "Products",
+        "p_sink_file_name" : "Products.csv"
+    },
+
+
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Returns.csv",
+        "p_sink_folder" : "Returns",
+        "p_sink_file_name" : "Returns.csv"
+    },
+
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder" : "Sales 2015",
+        "p_sink_file_name" : "Sales_2015.csv"
+    },
+
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder" : "Sales 2016",
+        "p_sink_file_name" : "Sales_2016.csv"
+    },
+
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder" : "Sales 2017",
+        "p_sink_file_name" : "Sales_2017.csv"
+    },
+
+    {
+        "p_rel_url" : "Nikhil-Info/Adventure-Works-Data-Engineer-Project/refs/heads/main/Datasets/AdventureWorks_Territories.csv",
+        "p_sink_folder" : "Territories",
+        "p_sink_file_name" : "Territories.csv"
+    }
+
+
+]
