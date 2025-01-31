@@ -1,0 +1,12 @@
+{
+	"name": "TestProjectStorage1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://mytestprojectn.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEFCNjQxQjA2LTEwMEEtNEUwNS1BRTNFLUQ2ODFFMEVEODI0M19iMDZkMTc2NS1jNDQxLTRhYzgtYjBiNi03NTQyZjVlOWYxNGIiDQp9"
+		}
+	}
+}
