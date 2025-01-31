@@ -106,7 +106,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Kaggle** for providing the Adventure Works dataset.
 - **Microsoft Azure** for their cloud tools and services, which helped in building the infrastructure for this project.
 - **Power BI** for data visualization and reporting.
-
----
-
-Feel free to customize this further with your own insights or specific steps you’ve taken for your project. Let me know if you need anything else!
